@@ -1,0 +1,4 @@
+Potter, 45000
+Grendger, 7000
+Withley, 2500
+Malfoy, 63000
